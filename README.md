@@ -38,4 +38,8 @@ The main objective of this project is to predict weekly sales based on the provi
 
 Feel free to contribute to this project by improving the predictive models or providing additional insights from the data.
 
+## Contact
+
+For questions or feedback regarding this README or topics related to Walmart project, please contact *Riyad* at *riyadehmedov03@gmail.com*.
+
 Happy analyzing!
